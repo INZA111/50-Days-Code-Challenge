@@ -1,3 +1,3 @@
-#DAY 1
+# DAY 1
 
 Data Structures: List
