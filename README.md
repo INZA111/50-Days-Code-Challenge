@@ -1,3 +1,3 @@
-# DAY 1
+# DAY 1-3
 
-Data Structures: List
+Data Structures: List,Tuple,Dictinary,Sets,Strings
