@@ -6,6 +6,10 @@ Data Structures: List,Tuple,Dictinary,Sets,Strings
 
 Algorithm Complexity:Big O,Theta,Omega
 
-# DAY-5-8
+# DAY 5-8
 
 Arrays
+
+# DAY 9-12
+
+Linked List
