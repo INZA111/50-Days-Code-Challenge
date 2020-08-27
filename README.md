@@ -49,3 +49,7 @@ Binary Tree
 # DAY 44-46
 
 Binary Search Tree
+
+# DAY 47-48
+
+AVL
