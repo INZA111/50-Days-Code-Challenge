@@ -57,3 +57,7 @@ AVL
 # DAY 49-50
 
 Heaps
+
+# DAY 51-52
+
+Hashing
